@@ -1,0 +1,144 @@
+{
+    "basic_info": {
+      "description_header": "Përshëndetje",
+      "description": "👋  Unë jam Gerind Tershana një web-developer i ri. Unë kam punuar me MERN full-stack dhe gjithashtu React Native për zhvillimin e aplikacioneve. Jam kurioz të provoj teknologji të reja dhe të punoj me to për të bërë projekte të reja në të ardhmen. Shpresoj të shijoni këtë faqe të portofolit dhe projektet e mëposhtme që kam bërë në të kaluarën.",
+      "section_name": {
+        "about": "Rreth meje",
+        "projects": "Projektet",
+        "skills": "Aftësitë",
+        "experience": "Eksperiencë"
+      }
+    },
+    "projects": [
+      {
+        "title": "Color Game",
+        "startDate": "2019",
+        "description": "Një nga faqet e para të internetit që kam ndërtuar me manipulim JavaScript dhe DOM. Ky web ka vetëm JavaScript, CSS dhe HTML. Eshtë një lojë e thjeshtë me ngjyra RGB.",
+        "images": [
+          "images/portfolio/color-game/c-g-1.PNG",
+          "images/portfolio/color-game/c-g-2.PNG"
+        ],
+        "url": "https://color-game-js-00.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          }
+        ]
+      },
+      {
+        "title": "React Color",
+        "startDate": "2020",
+        "description": "Një nga projektet e para të mëdha që kam bërë me React. Në këtë faqe në internet ju mund të krijoni modifikoni grupe të ndryshme ngjyrash me përdorimin e Material UI dhe zgjidhni formate të ndryshme për to",
+        "images": [
+          "images/portfolio/react-color/r-c-1.PNG",
+          "images/portfolio/react-color/r-c-2.PNG"
+        ],
+        "url": "https://react-cl.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material UI"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "OffRoad Albania",
+        "startDate": "2021",
+        "description": "Website më i madh që kam ndërtuar duke perdorur MERN stack. Ai përfshin authentication,JavaScript tokens,kalime informacionesh nepermjet api dhe një NoSQL DB. Ishte edhe teza ime e diplomës për shkollën time të mesme. Ky projekt gjithashtu ka një aplikacion për celularë.(android/ios)",
+        "images": [
+          "images/portfolio/off-Road/p1.PNG",
+          "images/portfolio/off-Road/p2.PNG"
+        ],
+        "url": "https://off-road-albania.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "OffRoad Albania-APP",
+        "startDate": "2021",
+        "description": "Ky ishte gjithashtu aplikacioni im i parë i madh me React-Native, i cili ka të gjitha opsionet nga website, duke shtuar opsionet shumëgjuhëshe dhe ndërfaqen e re. Ishte edhe teza ime e diplomës për shkollën time të mesme",
+        "images": [
+          "images/portfolio/off-Road/p3.PNG",
+          "images/portfolio/off-Road/p4.PNG",
+          "images/portfolio/off-Road/p5.PNG"
+        ],
+        "url": "https://drive.google.com/file/d/1vuSrCif1mc83OUBunvxLcfmMuiVcpfyJ/view?usp=sharing",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React-Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "ENS Albania",
+        "title": "Intern",
+        "years": "24/06/2019 – 19/08/2019",
+        "mainTech": [
+          "GNS 3"
+        ],
+        "technologies": [
+         "Mikrotik",
+         "GNS 3"
+     
+        ]
+      },
+  
+      {
+        "company": "Lincoln Center Albania",
+        "title": "Mesues Programimi",
+        "years": "25/05/2019 – 16/10/2019",
+        "mainTech": [
+          "Scratch"
+        ],
+        "technologies": [
+         "Scratch",
+         "Codeblock"
+        ]
+      },
+      {
+        "company": "TASE Groupe AL ",
+        "title": "Social Media Manager",
+        "years": "01/10/2019 – 01/06/2020",
+        "mainTech": [
+          "Instagram"
+        ],
+        "technologies": [
+          "Instagram",
+          "Facebook",
+          "Photoshop"
+        ]
+      }
+    ]
+  }
