@@ -1,0 +1,218 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": "👋 I'm Gerind Tershana a young web-developer. I have worked with the MERN full-stack and also React Native for app development. I am curious to try new technologies and work with them to make new projects in the future. I hope you enjoy this portfolio site and the below projects I have done in the past.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      
+      {
+        "title": "React Color",
+        "startDate": "2020",
+        "description": "One of the first big projects I have done with React. In this website you can create edit and modify different sets of colors with the usage of Material UI and choose different formats for them",
+        "images": [
+          "images/portfolio/react-color/r-c-1.PNG",
+          "images/portfolio/react-color/r-c-2.PNG"
+        ],
+        "url": "https://react-cl.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material UI"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "OffRoad Albania",
+        "startDate": "2021",
+        "description": "The biggest MERN stack web app I have build. It includes authentication, JavaScript tokens, parsing information and a NoSQL DB. It was also my diploma thesis for my high school. This project also has a mobile app.(android/ios)",
+        "images": [
+          "images/portfolio/off-Road/p1.PNG",
+          "images/portfolio/off-Road/p2.PNG"
+        ],
+        "url": "https://off-road.onrender.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "OffRoad Albania-APP",
+        "startDate": "2021",
+        "description": "This was also my first big app with React-Native, It has all the features from the web app, adding the multilingual options and the new UI. It was also my diploma thesis for my high school. ",
+        "images": [
+          "images/portfolio/off-Road/p3.PNG",
+          "images/portfolio/off-Road/p4.PNG",
+          "images/portfolio/off-Road/p5.PNG"
+        ],
+        "url": "https://drive.google.com/file/d/1vuSrCif1mc83OUBunvxLcfmMuiVcpfyJ/view?usp=sharing",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React-Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },    
+      {
+        "title": "Auto-Express",
+        "startDate": "2022",
+        "description": "This was my first taste at trying a diffrent approach on a CRUD Webpage. Diffrent from the first CRUD project it incorporates a diffrent UI and a diffrent approach to the backend while maintaing a easy UX.",   
+          "images": [
+          "images/portfolio/auto-express/1.PNG",
+          "images/portfolio/auto-express/2.PNG"
+        ],
+        "url": "https://auto-express.onrender.com/",
+        "technologies": [
+      
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+       
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "RiftDrop",
+        "startDate": "2023",
+        "description": "This project incoporates sockets and a realtime update to the user information and system. It is a fully realtime webapp that allows users to chat and play games with each other. It also has a fully functional login system and a realtime chat system.",  
+          "images": [
+          "images/portfolio/riftDrop/1.PNG",
+          "images/portfolio/riftDrop/2.PNG",
+          "images/portfolio/riftDrop/3.PNG"
+        ],
+        "url": "https://testlolcases.me/",
+        "technologies": [
+      
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+       
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "Mysql"
+          }
+        ]
+      }
+      
+    ],
+    "experience": [
+   
+      {
+        "company": "ENS Albania",
+        "title": "Intern",
+        "years": "24/06/2019 – 19/08/2019",
+        "mainTech": [
+          "GNS 3"
+        ],
+        "technologies": [
+         "Mikrotik",
+         "GNS 3"
+     
+        ]
+      },
+  
+      {
+        "company": "Lincoln Center Albania",
+        "title": "Programming Teacher",
+        "years": "25/05/2019 – 16/10/2019",
+        "mainTech": [
+          "Scratch"
+        ],
+        "technologies": [
+         "Scratch",
+         "Codeblock"
+        ]
+      },
+      {
+        "company": "TASE Groupe AL ",
+        "title": "Social Media Manager",
+        "years": "01/10/2019 – 01/06/2020",
+        "mainTech": [
+          "Instagram"
+        ],
+        "technologies": [
+          "Instagram",
+          "Facebook",
+          "Photoshop"
+        ]
+      },
+      {
+        "company": "Detag.al ",
+        "title": "Junior Developer",
+        "years": "15/06/2021 – 15/10/2021",
+        "mainTech": [
+          "Vue"
+        ],
+        "technologies": [
+          "Vue",
+          "Laravel",
+          "Nodejs",
+          "Linux"
+        ]
+      },  
+      {
+        "company": "Albanian ICT Academy ",
+        "title": "Programming Teacher",
+        "years": "01/03/2022 – Present",
+        "mainTech": [
+          "Teacher"
+        ],
+        "technologies": [
+          "C++",
+          "Python",
+          "Web Dev",
+          "React & React Native",
+          "Computer Architecture"
+        ]
+      }
+     
+    ]
+  }
